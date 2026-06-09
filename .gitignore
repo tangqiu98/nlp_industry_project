@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.db
+*.sqlite
+*.pth
+*.pt
+.vscode/
+.idea/
+*.log
+.DS_Store
+chroma_fault_vector_db/
